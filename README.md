@@ -16,6 +16,7 @@ PS/2キーボードをArduinoNanoを用いて、98用キーボードに変換す
 #define PS2_CLK     3  // PS2キーボードのCLKピンに接続(割込み可能PIN必須Nanoなら2or3)<br>
 #define CLK_INT     1  // 割り込み順位<br>
 
+
 ## 紹介と仕様解説ブログ
 
  
