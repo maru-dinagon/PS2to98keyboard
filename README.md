@@ -16,7 +16,7 @@ PS/2キーボードをArduinoNanoを用いて、98用キーボードに変換す
 //PS2側ピン定義<br>
 #define PS2_DATA    A3 // PS2キーボードのDATAピンに接続<br>
 #define PS2_CLK     3  // PS2キーボードのCLKピンに接続(割込み可能PIN必須Nanoなら2or3)<br>
-![md6_ps2](https://github.com/maru-dinagon/PS2to98keyboard/assets/66824091/fc120802-ff57-40b0-b6bb-cf172dff656e)
+![md6_ps2](/img/md6_ps2.png)
 
 ※5VとGNDの接続も忘れずに!
 
