@@ -1,6 +1,8 @@
 # PS2to98keyboard
 
-PS/2キーボードをArduinoNanoを用いて、98用キーボードに変換するスケッチとなります。
+PS/2キーボードをArduinoNanoを用いて、98用キーボードに変換するスケッチとなります。<br>
+[[PC-98][Arduino]PS/2キーボードをArduinoでPC-98につなげる](https://androiphone.uvs.jp/?p=4066)<br>
+を読んでいただければ、なんとなく伝わるかもです
 
 ## 必要なライブラリ
 [SoftwareSerialParity](https://github.com/ljbeng/SoftwareSerialParity)
@@ -23,5 +25,6 @@ PS/2キーボードをArduinoNanoを用いて、98用キーボードに変換す
 
 
 ## 紹介と仕様解説ブログ
+[[PC-98][Arduino]PS/2キーボードをArduinoでPC-98につなげる](https://androiphone.uvs.jp/?p=4066)
 
  
